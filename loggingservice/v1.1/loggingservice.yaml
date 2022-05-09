@@ -1,0 +1,10 @@
+openapi: 3.0.0
+info:
+  title: loggingservice
+  description: ""
+  version: "1.1"
+servers:
+- url: https://virtserver.swaggerhub.com/mongrain.org/loggingservice/1.1
+  description: SwaggerHub API Auto Mocking
+paths: {}
+components: {}
